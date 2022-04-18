@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JinxJanx
 - 👀 I’m interested in Wynncraft.
 - 🌱 I’m currently learning about myself from myself.
-- 💞️ I’m looking to collaborate on items that would benefit my packs.
+- 💞️ I’m looking to collaborate on this resource pack.
 - 📫 Can reach me through discord.
 
 <!---
