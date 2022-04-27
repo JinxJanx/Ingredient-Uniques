@@ -19,8 +19,9 @@ pack should help see drops.
 What Does It Actually Do?
 ( These are grouped by grinding area / ing purpose / texture separation )
 
+- - - - - - - - - - - - - - - - - -
     GXP / GSPD
-
+- - - - - - - - - - - - - - - - - -
 Altitude Shard - scaled up, rotated 90*
 Death Whistle Leaf - scaled up
 Dernic Parasite - scaled up, texture swap
@@ -32,9 +33,9 @@ Tropical Honeysuckle - scaled up
 Void Particulates - scaled up, texture swap
 - - Uses charcoal image
 
-
+- - - - - - - - - - - - - - - - - -
     LB / LQ
-
+- - - - - - - - - - - - - - - - - -
 Ancient Coins - scaled up, texture swap
 - - Uses unused wynncraft image for ek rune
 Ancient Currency - scaled up
@@ -42,19 +43,22 @@ Glimmering Coin - scaled up, texture swap
 - - Uses circle coin found online
 Old Treasure - scaled up very large
 
+- - - - - - - - - - - - - - - - - -
     Almuj
-
+- - - - - - - - - - - - - - - - - -
 Desert Fossil - scaled up, texture swap
 - - Uses 1.18 nautilus shell image
 
+- - - - - - - - - - - - - - - - - -
     Naval Stone
-
+- - - - - - - - - - - - - - - - - -
 Aquatic Beauty - scaled up, texture swap
 - - Uses nether image
 Naval Stone - scaled up
 
+- - - - - - - - - - - - - - - - - -
     Llevigar
-
+- - - - - - - - - - - - - - - - - -
 Ancient Heart - scaled up
 Archaic Medallion - scaled up
 Bottled Fairy - scaled up
@@ -64,29 +68,33 @@ Lost Heirloom - scaled up
 Quartz Cluster - scaled up, texture swap
 - - Uses the 1.17 quartz image
 
+- - - - - - - - - - - - - - - - - -
     Dark Forest
-
+- - - - - - - - - - - - - - - - - -
 Decaying Heart - scaled up
 Hellish Cinders - scaled up slightly
 Lashing Hellfire - scaled up
 Victim's Skull - scaled up slightly (cause why not)
 
+- - - - - - - - - - - - - - - - - -
     Lunar Charm
-
+- - - - - - - - - - - - - - - - - -
 Lunar Charm - scaled up, reversed in gui, texture swap, rotated back 45*
 - - Uses multi-color necklace with animation, instead of silver necklace
 Lunar Chunk - raised slightly so it is visible above Lunar Dust
 Lunar Dust - rotated back 90* to flatten
 
+- - - - - - - - - - - - - - - - - -
     Unicorn Horns
-
+- - - - - - - - - - - - - - - - - -
 Unicorn Horn - scaled up, texture swap
 - - Uses a horn image found online
 Luxroot Cuttings - scaled up
 Luminous Rune - scaled up
 
+- - - - - - - - - - - - - - - - - - - - - - - -
     Robot Stuff
-
+- - - - - - - - - - - - - - - - - - - - - - - -
 Defective Circuits - scaled up, texture rotated 180*
 Flesh-forged Circuit - scaled up, texture rotated 90*
 Generator Chip - scaled up, texture rotated 90*
@@ -100,16 +108,18 @@ Robot Antenna - scaled down, texture swap
 - - This makes the robot antenna very small
 Yottabyte - scaled up, texture rotated 90*
 
+- - - - - - - - - - - - - - - - - -
     Corkus Stuffs
-
+- - - - - - - - - - - - - - - - - -
 Golden Avia Feather - scaled up
 - - Now you can see where the annoying things drop
 Serpent’s Fang - scaled up, rotated back 45*
 Turtle Shell - scaled up, texture swap
 - - Uses the turtle helmet image
 
+- - - - - - - - - - - - - - - - - -
     Everything Else
-
+- - - - - - - - - - - - - - - - - -
 Antique Metal - scaled up, rotated back 45*
 Creeper Brain - scaled up
 - - This is the token in CLS Dungeon
